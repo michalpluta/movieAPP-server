@@ -3,7 +3,7 @@
 MovieApp by server side requires Node.js and MongoDB as a database to run.
 It is the first part of full MEAN API Application.
 
-Install the dependencies and start the server.
+Install the dependencies.
 
 ```sh
 $ npm install
