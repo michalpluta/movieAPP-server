@@ -10,7 +10,7 @@ $ npm install
 ```
 
 After installation, database has to be started.
-MongoDB you can find [here](https://www.mongodb.com/download-center#community).
+MongoDB can be find [here](https://www.mongodb.com/download-center#community).
 
 ```sh
 $ sudo mongod
