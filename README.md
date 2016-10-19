@@ -21,13 +21,13 @@ When applicaiton will be connected with database, server has to be started.
 $ node bin/www.js 
 ```
 
-Application will be available at
+Application will be available at:
 ```sh
 http://localhost:8000/
 ```
 ### Workflow example
 
-The best way of checking if connection is established is to use [Postman](https://www.getpostman.com/) App to check the current workflow.
+The best way of checking if connection is established is to use [Postman](https://www.getpostman.com/) app to check the current workflow.
 In the Postman App, paste: 
 
 ```sh
